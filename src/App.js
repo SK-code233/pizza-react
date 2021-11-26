@@ -38,11 +38,15 @@ function App() {
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
   </ol>
 
   <div className="carousel-inner carousel-content">
-    <div className="carousel-item active">
+  <div className="carousel-item active">
       <img src="images/anthony-duran-QbOvrpDU1KA-unsplasha.jpg" className="d-block w-100" alt="..."/>
+    </div>
+    <div className="carousel-item active">
+      <img src="images/HENRIX.png" className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
       <img src="images/pizbackg4A.jpg" className="d-block w-100" alt="..."/>
