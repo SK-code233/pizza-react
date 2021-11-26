@@ -43,22 +43,22 @@ function App() {
 
   <div className="carousel-inner carousel-content">
   <div className="carousel-item active">
-      <img src="images/anthony-duran-QbOvrpDU1KA-unsplasha.jpg" className="d-block w-100" alt="..."/>
-    </div>
-    <div className="carousel-item active">
-      <img src="images/HENRIX.png" className="d-block w-100" alt="..."/>
+      <img src="images/a.png" className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="images/pizbackg4A.jpg" className="d-block w-100" alt="..."/>
+      <img src="images/b.png" className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="images/lasse-bergqvist-u6NiMLJftRs-unsplasha.jpg" className="d-block w-100" alt="..."/>
+      <img src="images/de.png" className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="images/stefan-c-asafti-x5jilo3ck3o-unsplasha.jpg" className="d-block w-100" alt="..."/>
+      <img src="images/d.png" className="d-block w-100" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="images/sam-moqadam-8bX4l0hFJfA-unsplasha.jpg" className="d-block w-100" alt="..."/>
+      <img src="images/f.png" className="d-block w-100" alt="..."/>
+    </div>
+    <div className="carousel-item">
+      <img src="images/c.png" className="d-block w-100" alt="..."/>
     </div>
   </div>
   <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
