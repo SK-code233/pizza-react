@@ -4,33 +4,33 @@ function App() {
   return (
     <div>
       	<nav className="navbar navbar-expand-lg navbar-light bg-light navhome">
-  <a className="navbar-brand col-md-8" id="navpizz" href="#">
-    <img src="mania.png" width="30" height="30" class="d-inline-block align-top" alt=""/>
-    PIZZAMANIA</a>
-  <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span className="navbar-toggler-icon"></span>
-  </button>
+          <a className="navbar-brand col-md-8" id="navpizz" href="#">
+            <img src="mania.png" width="30" height="30" class="d-inline-block align-top" alt=""/>
+            PIZZAMANIA</a>
+          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span className="navbar-toggler-icon"></span>
+          </button>
 
-  <div className="collapse navbar-collapse col-md-4" id="navbarSupportedContent">
-    <ul className="navbar-nav mr-auto">
-      <li className="nav-item">
-        <a className="nav-link" href="#">Home</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link" href="#">About Pizza</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link" href="#">Pizza Types</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+          <div className="collapse navbar-collapse col-md-4" id="navbarSupportedContent">
+            <ul className="navbar-nav mr-auto">
+              <li className="nav-item">
+                <a className="nav-link" href="#">Home</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#">About Pizza</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#">Pizza Types</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
 
 
 <div className="container-fluid">
   <div className="row">
 
-<div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" className="carousel slide col-xs-12 col-md-12" data-ride="carousel">
   <ol className="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -76,7 +76,7 @@ function App() {
 </div>
 
 <div className="container">
-  <div className="row"> 
+  <div className="row col-xs-12 col-md-12 justify-content-center align-content-lg-center"> 
     <h2 className="about mx-auto piz-head" style={{width: "200px"}}>  About Pizza  </h2>
   </div>
 
