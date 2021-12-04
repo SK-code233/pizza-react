@@ -21,6 +21,12 @@
     height: 560px;
 }
 
+.carousel-item,.carousel-item img {
+    height: 100%;
+}
+
+
+
 .about {
     /*margin-left: 450px;*/
     margin-top: 3rem;
