@@ -126,7 +126,7 @@ function App() {
 
   <div className="row">
     <span>
-      <div className="col-xs-12 col-md-3 pizza-types pepper">
+      <div className="col-xs-12 pizza-types pepper">
         <div className="card" style={{width: "18rem"}}>
           <img src="images/amirali-mirhashemian-w1iMfs6yxuo-unsplash.jpg" className="card-img-top card-imgheight" alt="pepperoni"/>
           <div className="card-body">
@@ -142,7 +142,7 @@ function App() {
       </div>
     </span>
     <span>
-      <div className="col-xs-12 col-md-3 pizza-types">
+      <div className="col-xs-12 pizza-types">
         <div className="card" style={{width: "18rem"}}>
           <img src="images/veggie1.jpg" className="card-img-top card-imgheight" alt="pepperoni"/>
             <div className="card-body">
@@ -158,7 +158,7 @@ function App() {
         </div>
        </span>
        <span> 
-      <div className="col-xs-12 col-md-3 pizza-types">
+      <div className="col-xs-12 pizza-types">
       <div className="card" style={{width: "18rem"}}>
         <img src="images/cheese1.jpg" className="card-img-top card-imgheight" alt="pepperoni"/>
         <div className="card-body">
@@ -174,7 +174,7 @@ function App() {
     </div>
   </span>
   <span>
-    <div className="col-xs-12 col-md-3 pizza-types">
+    <div className="col-xs-12 pizza-types">
       <div className="card" style={{width: "18rem"}}>
         <img src="images/veggie2.jpg" className="card-img-top card-imgheight" alt="pepperoni"/>
         <div className="card-body">
